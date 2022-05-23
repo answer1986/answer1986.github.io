@@ -1,18 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "githubpages",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "ghpages": "^0.0.10"
-=======
   "name": "ptprashanttripathi.github.io",
   "version": "1.0.0",
   "description": "My Portfolio site using Material Design. [Mobile First Layout I Fully Responsive]",
@@ -22,17 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io.git"
+    "url": "git+https://github.com/answer1986/answer1986.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/issues"
+    "url": "https://github.com/answer1986/answer1986/issues"
   },
-  "homepage": "https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io#readme",
+  "homepage": "https://github.com/answer1986/answer1986.github.io#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
->>>>>>> origin
   }
 }
