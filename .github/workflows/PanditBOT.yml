@@ -29,8 +29,8 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi    
           python main.py
-          git config user.name PtPrashantTripathi
-          git config user.email ptprashanttripathi@outlook.com
+          git config user.name Alvaro Riquelme V
+          git config user.email arv00316@hotmail.com
           git add ./json/repos.json
           git commit -m "[PanditBot] Updating Repos Data"
           git push --quiet
