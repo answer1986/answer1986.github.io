@@ -996,7 +996,7 @@ blockquote {
     height: 123px;
     width: 123px;
     border-radius: 50%;
-    background: url("https://avatars2.githubusercontent.com/u/26687933?s=200&v=4");
+    background: url("https://media-exp1.licdn.com/dms/image/C4E03AQFtK7fivsN4DQ/profile-displayphoto-shrink_100_100/0/1606486394012?e=1658361600&v=beta&t=JgBQpavPnpkBv7hOtWj9IYic2pMgAU9FqhVCHNgH7wg");
     background-size: cover;
     margin: 0 auto; }
   .mdl-layout__drawer .candidate-name {
@@ -1107,13 +1107,13 @@ blockquote {
       background-size: cover;
       cursor: pointer; }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_1 {
-        background-image: url("../img/img-bg-1.jpg"); }
+        background-image: url("../img/Myhome.jpeg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_2 {
-        background-image: url("../img/img-bg-2.jpg"); }
+        background-image: url("../img/Myhome.jpeg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_3 {
-        background-image: url("../img/img-bg-3.jpg"); }
+        background-image: url("../img/Myhome.jpeg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_4 {
-        background-image: url("../img/img-bg-4.jpg"); }
+        background-image: url("../img/Myhome.jpeg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#pattrnbg_1 {
         background-color: #6f14db;
         background-image: url("data:image/svg+xml,%3Csvg width='40' height='12' viewBox='0 0 40 12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 6.172L6.172 0h5.656L0 11.828V6.172zm40 5.656L28.172 0h5.656L40 6.172v5.656zM6.172 12l12-12h3.656l12 12h-5.656L20 3.828 11.828 12H6.172zm12 0L20 10.172 21.828 12h-3.656z' fill='%23e5ff00' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E"); }
@@ -1163,15 +1163,15 @@ blockquote {
   left: 0;
   top: 0; }
   .bg-struct.bg-img {
-    background: url("../img/img-bg-1.jpg");
+    background: url("../img/Myhome.jpeg");
     background-position: center;
     background-size: cover; }
   .bg-struct.bg-img-2 {
-    background: url("../img/img-bg-2.jpg"); }
+    background: url("../img/Myhome.jpeg"); }
   .bg-struct.bg-img-3 {
-    background: url("../img/img-bg-3.jpg"); }
+    background: url("../img/Myhome.jpeg"); }
   .bg-struct.bg-img-4 {
-    background: url("../img/img-bg-4.jpg"); }
+    background: url("../img/Myhome.jpeg"); }
   .bg-struct.bg-pattern-1 {
     background-color: #6f14db;
     background-image: url("data:image/svg+xml,%3Csvg width='40' height='12' viewBox='0 0 40 12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 6.172L6.172 0h5.656L0 11.828V6.172zm40 5.656L28.172 0h5.656L40 6.172v5.656zM6.172 12l12-12h3.656l12 12h-5.656L20 3.828 11.828 12H6.172zm12 0L20 10.172 21.828 12h-3.656z' fill='%23e5ff00' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
