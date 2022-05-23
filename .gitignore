@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 node_modules
+=======
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+>>>>>>> origin
